@@ -10,3 +10,4 @@ Mecurial is also an option (seems like a simpler, less well known Git)
 
 Commands:
 git log 
+git commit -a  #Commits all files added already?
